@@ -108,7 +108,7 @@
         mm = parseInt(mm) + 1;
         mm = String(mm).padStart(2, '0');
     }
-    var timerdate = mm + '/' + dd + '/' + yyyy;
+    var timerdate = "2020/10/01";
     // For demo preview end
     
 
