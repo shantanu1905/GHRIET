@@ -3,3 +3,7 @@ This website is designed by me , when I was member of coding club in my college 
 
 To visit my site click on link 
 https://shantanu1905.github.io/GHRIET/
+
+## Screenshot
+
+![alt text](https://github.com/shantanu1905/GHRIET/blob/master/img/screenshot-shantanu1905-github-io-GHRIET-1604420132374.png)
